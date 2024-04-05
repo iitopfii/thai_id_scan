@@ -82,7 +82,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             backgroundColor: Color.fromARGB(255, 9, 63, 90),
             title: const Text(
-              'Smart card by The Compete',
+              'Smart card by The Compete ld.',
               style: TextStyle(color: Colors.white),
             ),
           ),
